@@ -1,0 +1,3 @@
+cryptolab-kit sample plaintext
+This file is used for hybrid envelope round-trip examples and tests.
+Line three: AES-256-GCM protects the body; RSA-OAEP wraps the file key.
